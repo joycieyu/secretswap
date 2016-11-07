@@ -1,0 +1,21 @@
+body {
+    font-family: 'Lato', Helvetica Neue, Helvetica, Arial, san-serif;
+    font-size: 18px;
+	font-weight: 300;
+    background-color: lightblue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', Helvetica Neue, Helvetica, Arial, san-serif;
+}
+
+.centered {
+    float: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.big {
+    font-size: 70px;
+    font-weight: 200%;
+}
